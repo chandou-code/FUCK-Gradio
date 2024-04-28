@@ -16,9 +16,9 @@ Windows 版本适用于 Edge 浏览器及其驱动，而 Linux 版本适用于 C
 pip install -r requirements.txt
 ```
 运行项目。
-'''
+```
 python start.py
-'''
+```
 
 # 注意事项
 本项目需要配置浏览器驱动，并根据操作系统选择合适的驱动版本。
